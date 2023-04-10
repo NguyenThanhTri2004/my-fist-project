@@ -1,0 +1,41 @@
+
+.lai{
+    display: flex;
+    flex-direction: column;
+}   
+#menu ul
+{
+  margin-top:  42px;
+}
+#menu ul li
+{
+  list-style-type: none;
+  display: inline;
+}
+.nav .nav-link{
+text-decoration: none;
+color: black;
+}
+    
+.col-xl-2{
+    border: none;
+}
+p{
+    text-align: center;
+}
+.chu .sau{
+position: relative;
+bottom: 22px;
+}
+.footerimg h1{
+position: absolute;
+z-index: 1000;
+left: 38%;
+}
+.chu button{
+  margin-left: 27%;
+}
+.chu h6{
+  margin-left: 15%;
+}
+
